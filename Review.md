@@ -1,4 +1,4 @@
-# 🍕 Joe's Pizza Review
+# 🍕 Jackie's Pizza Review
 - Rating: ⭐⭐⭐⭐
 - Price: $$
 - Must Try: Classic Margherita
