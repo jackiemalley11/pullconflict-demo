@@ -1,5 +1,5 @@
 # 🍕 Joe's Pizza Review
-- Rating: ⭐⭐⭐⭐
+- Rating: ⭐⭐
 - Price: $$
 - Must Try: Classic Margherita
-- Notes: Currently under review by food critics
+- Notes: THIS IS TIMS REVIEW
